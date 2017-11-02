@@ -1,0 +1,25 @@
+{
+  "name": "react3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.11.2",
+    "html-loader": "^0.5.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^1.16.5"
+  }
+}
