@@ -1,0 +1,13 @@
+/*
+* @Author: Administrator
+* @Date:   2017-11-05 09:53:07
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-11-05 11:15:05
+*/
+.miniFooter{
+  background-color: red;
+}
+.miniFooter h1{
+    font-size: 8px;
+    color: #000;
+}
